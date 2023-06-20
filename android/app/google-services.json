@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934653271393",
+    "project_id": "quiz-app-47cf7",
+    "storage_bucket": "quiz-app-47cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934653271393:android:4ec8f391c79eab1f6bb920",
+        "android_client_info": {
+          "package_name": "com.happinessit.quizz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934653271393-9cur8ihfr2uq15aq6ga6mf2ad55ig757.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happinessit.quizz_app",
+            "certificate_hash": "feb50cbc81e3f9aa69f885f39ebb04e8ce0deccc"
+          }
+        },
+        {
+          "client_id": "934653271393-628vi1jh0h2hlivcfjfdf4l3vc2q48vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXzh35KRocbwAyx-ATcz0lDJnk2ft16M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934653271393-628vi1jh0h2hlivcfjfdf4l3vc2q48vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
